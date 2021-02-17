@@ -1,0 +1,36 @@
+.kinghenryIV{
+    color:#8B0000;
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+    
+}
+.westmoreland{
+    color:PaleVioletRed;
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+}
+p{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+}
+.stage:hover:hover {
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+    background-color: blanchedalmond;
+    color:blue;
+    font-style: italic;
+    
+
+}
+#act {
+    color:green;
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+}
+#heading{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+    
+}
